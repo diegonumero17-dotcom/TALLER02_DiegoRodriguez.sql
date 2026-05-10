@@ -23,7 +23,7 @@ WHERE length > 120;
 
 
 -- PARTE 2 – ORDER BY
--- =====================================================
+
 
 -- 3. Ordenar clientes por apellido (A-Z)
 
@@ -110,7 +110,7 @@ WHERE fa.actor_id IS NULL;
 
 
 -- 9. Insertar actor temporal
--- Se agrega un nuevo actor a la tabla actor
+
 
 INSERT INTO actor (first_name, last_name)
 VALUES ('DIEGO', 'RODRIGUEZ');
