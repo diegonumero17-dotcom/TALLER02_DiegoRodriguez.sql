@@ -105,9 +105,9 @@ WHERE fa.actor_id IS NULL;
 
 
 
--- =====================================================
+
 -- PARTE 5 – INSERT, UPDATE, DELETE
--- =====================================================
+
 
 -- 9. Insertar actor temporal
 -- Se agrega un nuevo actor a la tabla actor
